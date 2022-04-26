@@ -1,1 +1,8 @@
-# B100.github.io
+# B100.dev
+
+## To Do
+- [ ] Blog 
+- [ ] GPG
+- [ ] Home 
+- [ ] Portfolio 
+- [ ] 
