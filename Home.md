@@ -4,9 +4,10 @@ title: "Home"
 permalink: //
 ---
 
-
+<head>
 <link rel="shortcut icon" type="image/png" href="https://github.com/B100GH/B100GH.github.io/blob/ea49f3fb8fd172f5a18c787b0cc6b80ee4a763d5/icons/logo.png">
-
+</head>
+  
 # B100.dev
 
 ## To Do
