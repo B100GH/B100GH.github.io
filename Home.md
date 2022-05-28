@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Home"
+permalink: /HOME/
+---
+
 # B100.dev
 
 ## To Do
