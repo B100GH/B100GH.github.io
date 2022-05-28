@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Home"
-permalink: /home/
+permalink: //
 ---
 
 # B100.dev
